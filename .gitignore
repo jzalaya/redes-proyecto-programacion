@@ -5,3 +5,5 @@ __pycache__/
 venv/
 .DS_Store
 kaggle.json
+modelos/
+stanford_dogs_redim1_recorte1/
