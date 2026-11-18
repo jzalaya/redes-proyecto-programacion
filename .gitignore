@@ -8,3 +8,4 @@ kaggle.json
 modelos/
 stanford_dogs_redim1_recorte1/
 ejemplos_augmentation/
+.virtual_documents/
